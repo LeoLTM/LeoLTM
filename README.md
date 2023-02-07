@@ -9,6 +9,10 @@ and I enjoy working with
 
 I'm interested in everything related to microcontrollers, smart home and cars.
 
+Checkout the latest project I worked on: 
+
+ - [🗝Firstpass](https://github.com/mad201802/firstpass), a beautiful and lightweight password manager
+
 > Everything you can imagine is real 🌌
 >  
 > ~ Pablo Picasso

@@ -1,7 +1,11 @@
-### Hi! <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="waving hand" width="5%"/>
+# **Hi, I'm Leo** <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="waving hand" width="5%"/>
 
-I'm Leo and I enjoy working with Python🐍, NestJS🐱, MongoDB🍃 and the Linux command line.
+and I enjoy working with Python🐍, NestJS🐱, MongoDB🍃, Docker🐳 and the Linux command line👾.
 I'm interested in everything related to microcontrollers, smart home and cars.
+
+> Everything you can imagine is real 🌌
+>  
+> ~ Pablo Picasso
 
  
 

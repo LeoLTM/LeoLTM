@@ -11,25 +11,10 @@ I'm interested in everything related to microcontrollers, smart home and cars.
 
 Checkout the latest project I worked on: 
 
- - [🗝Firstpass](https://github.com/mad201802/firstpass), a beautiful and lightweight password manager
+ - [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Penguin" width="15" height="15" /> Firstpass](https://github.com/mad201802/firstpass), a beautiful and lightweight password manager
 
 > Everything you can imagine is real 🌌
 >  
 > ~ Pablo Picasso
 
- 
 
-<!--
-**LeoLTM/LeoLTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

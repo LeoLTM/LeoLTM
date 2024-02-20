@@ -9,7 +9,7 @@ and I enjoy working with
 
 I'm interested in everything related to microcontrollers, smart home and cars.
 
-Checkout the latest project I worked on: 
+Checkout one of the latest projects I worked on: 
 
  - [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Penguin" width="15" height="15" /> Firstpass](https://github.com/mad201802/firstpass), a beautiful and lightweight password manager
 

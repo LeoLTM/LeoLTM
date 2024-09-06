@@ -2,7 +2,7 @@
 
 and I enjoy working with 
  - TypeScript <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Building%20Construction.png" alt="Building Construction" width="20" height="20" />
- - Electron <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" alt="Atom Symbol" width="25" height="20" />
+ - Electron & React <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" alt="Atom Symbol" width="25" height="20" />
  - NestJS <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="20" height="20" />
  - PlatformIO IDE <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="20" height="20" />
  - MongoDB🍃

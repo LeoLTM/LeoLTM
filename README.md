@@ -15,6 +15,7 @@ and I enjoy working with
 I'm interested in everything related to microcontrollers, smart home and cars.
 
 Checkout some of the latest projects I worked on: 
+ - [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="15" height="15" /> 3devo-gui](https://github.com/LeoLTM/3devo-gui), a companion app for the 3devo filament extruders built with Tauri
  - [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" alt="Crescent Moon" width="15" height="15" /> asl-gokart](https://github.com/mad201802/asl-gokart), the software stack of the [Aerospace Lab e.V.](https://github.com/Aerospace-Lab-e-V/) electric gokart
  - [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Penguin" width="15" height="15" /> Firstpass](https://github.com/mad201802/firstpass), a beautiful and lightweight password manager
 

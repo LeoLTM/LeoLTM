@@ -49,11 +49,12 @@ and I enjoy working with:
 I'm interested in everything related to microcontrollers, smart home and cars.
 
 Checkout some of the latest projects I worked on: 
- - [3devo-gui](https://github.com/LeoLTM/3devo-gui), a companion app for the 3devo filament extruders built with Tauri
+ - [asl-gokart](https://github.com/Aerospace-Lab-e-V/asl-gokart), the software stack of the [Aerospace Lab e.V.](https://github.com/Aerospace-Lab-e-V/) electric gokart
  - [wisp](https://github.com/LeoLTM/wisp), a lightweight ARMv6 client for the [Sendspin audio streaming protocol](https://www.sendspin-audio.com/) made for single core boards like the RPi 0W
  - [Timbre for Sendspin](https://apps.microsoft.com/detail/9n6c9kwv9hnh), the beautiful [Sendspin audio streaming protocol](https://www.sendspin-audio.com/) client made for Xbox
- - [asl-gokart](https://github.com/Aerospace-Lab-e-V/asl-gokart), the software stack of the [Aerospace Lab e.V.](https://github.com/Aerospace-Lab-e-V/) electric gokart
  - [ac-race-kiosk](https://github.com/LeoLTM/ac-race-kiosk), an all-in-one system for managing your own Assetto Corsa race cafe with multiple sim rigs
+ - [3devo-gui](https://github.com/LeoLTM/3devo-gui), a companion app for the 3devo filament extruders built with Tauri
+ - [speedcamera](https://github.com/LeoLTM/speedcamera), which combines a Raspberry Pi, an ESP8266, two light barriers and a HIKROBOT GigEVision industrial camera into a standalone speed camera and lap timer
  - [Firstpass](https://github.com/mad201802/firstpass), a beautiful and lightweight password manager
 
 > Everything you can imagine is real 🌌
